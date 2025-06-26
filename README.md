@@ -1,2 +1,2 @@
-# llm-laser
-An LLM-powered solution
+**# ai-laser-migrate**
+An AI-powered solution for migrations
